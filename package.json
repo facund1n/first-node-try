@@ -1,0 +1,20 @@
+{
+  "name": "first-node-try",
+  "version": "1.0.0",
+  "description": "my fisrt node startup",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facund1n/first-node-try.git"
+  },
+  "author": "facund1n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/facund1n/first-node-try/issues"
+  },
+  "homepage": "https://github.com/facund1n/first-node-try#readme"
+}
